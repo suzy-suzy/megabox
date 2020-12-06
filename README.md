@@ -1,14 +1,14 @@
 # megabox
 
-<a href="https://suzy-suzy.github.io/megabox/mega/index1.html">index1.html</a><br>
-<a href="https://suzy-suzy.github.io/megabox/mega/index2.html">index2.html</a><br>
-<a href="https://suzy-suzy.github.io/megabox/mega/index3.html">index3.html</a><br>
-<a href="https://suzy-suzy.github.io/megabox/mega/index4.html">index4.html</a><br>
-<a href="https://suzy-suzy.github.io/megabox/mega/index5.html">index5.html</a><br>
-<a href="https://suzy-suzy.github.io/megabox/mega/index6.html">index6.html</a><br>
-<a href="https://suzy-suzy.github.io/megabox/mega/index7.html">index7.html</a><br>
-<a href="https://suzy-suzy.github.io/megabox/mega/index8.html">index8.html</a><br>
-<a href="https://suzy-suzy.github.io/megabox/mega/index9.html">index9.html</a><br>
+<a href="https://suzy-suzy.github.io/megabox/mega/index01.html">index01.html</a><br>
+<a href="https://suzy-suzy.github.io/megabox/mega/index02.html">index02.html</a><br>
+<a href="https://suzy-suzy.github.io/megabox/mega/index03.html">index03.html</a><br>
+<a href="https://suzy-suzy.github.io/megabox/mega/index04.html">index04.html</a><br>
+<a href="https://suzy-suzy.github.io/megabox/mega/index05.html">index05.html</a><br>
+<a href="https://suzy-suzy.github.io/megabox/mega/index06.html">index06.html</a><br>
+<a href="https://suzy-suzy.github.io/megabox/mega/index07.html">index07.html</a><br>
+<a href="https://suzy-suzy.github.io/megabox/mega/index08.html">index08.html</a><br>
+<a href="https://suzy-suzy.github.io/megabox/mega/index09.html">index09.html</a><br>
 <a href="https://suzy-suzy.github.io/megabox/mega/index10.html">index10.html</a><br>
 <a href="https://suzy-suzy.github.io/megabox/mega/index11.html">index11.html</a><br>
 <a href="https://suzy-suzy.github.io/megabox/mega/index12.html">index12.html</a><br>
